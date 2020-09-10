@@ -1,0 +1,14 @@
+Ace mempunyai masalah bagaimana menghitung pengeluaran Ace. Ace mempunyai uang 50rb, lalu mendapatkan uang dari Ayahnya 80rb, lalu Ace beli Nasi padang 10rb, es buah 5rb. bagaimana proses penyelesaian masalah Ace? agar mendapat sisa uang Ace
+
+
+set uangace = 50000
+set uangayah = 80000
+
+set uangacesekarang = uang ace + uang Ayah
+
+
+set belinasipadang = 10000
+set beliesbuah = 5000
+set pengeluaran = belinasipadang + beliesbuah
+
+set saldoace = uang ace sekarang - pengeluaran
