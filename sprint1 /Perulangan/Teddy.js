@@ -12,21 +12,21 @@
 //     var pola = "*"
 // var number = parseInt(prompt("masukan no."))
 
-// for (var y=1; y<=5; y++){
-//     for (var x=1; x<=5; x++)
-//     if (x==1||x==number||y==number/2){
-//         document.write("*")
-//     }
-// }
+for (var y=1; y<=5; y++){
+    for (var x=1; x<=5; x++)
+    if (-x==-y){
+        document.write("*")
+    }
+}
 
 
 
-var s ="";
-for (var j=0 ;j<0; j--){
-    for (var k =0; k<j; k++){
-        s +="*";
-    }s +=  "\n"
+// var s ="";
+// for (var j=0 ;j>5; j--){
+//     for (var k =0; k<j; k++){
+//         s +="*";
+//     }s +=  "\n"
         
 
 
-} console.log(s)
+// } console.log(s)
