@@ -1,4 +1,4 @@
-// document.write("SENNEN MUKYO")
+// document.write("SENNEN MAKYOU")
 // console.log("consele is a console")
 
 
@@ -17,7 +17,7 @@
 // nama variabelnya 
 // nama tipe datanya
 
-// var namaSaya = "kuiju";
+// var namaSaya = "idk";
 // var angka = 00;
 // var bool = true
 

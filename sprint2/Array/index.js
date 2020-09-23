@@ -13,12 +13,12 @@ document.write("|^_^| <br>")
 //array multidimensi
 //array yg didalamnya memuat array lagi
 
-// var anime = [
-//     ["BungouStrayDogs", 2016],
-//     ["Yahari Ore no Seishun Love Comedy wa Machigatteiru", 2013],
-// ]
+var anime = [
+    ["BungouStrayDogs", 2016],
+    ["Yahari Ore no Seishun Love Comedy wa Machigatteiru", 2013],
+]
 
-// document.write(anime[1][0])
+document.write(anime)
 
 // var divisimob = ["FI", "AY", "YR", "RA"]
 // lenght
@@ -47,8 +47,8 @@ document.write("|^_^| <br>")
 // document.write(kebunbinatang)
 
 //tugas 
-var backend = ["syofyan", "sidik", "roihan"]
-var mobile = ["hafif", "wandi", "ayub"]
+// var backend = ["syofyan", "sidik", "roihan"]
+// var mobile = ["hafif", "wandi", "ayub"]
 
 //output
 //yamin,hafif,wandi,syofyan,ayub,sidik,roihan,yoga
